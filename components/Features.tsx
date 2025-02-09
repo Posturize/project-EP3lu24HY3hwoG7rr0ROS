@@ -1,8 +1,8 @@
 export default function Features() {
   const features = [
     { title: 'Easy Integration', description: 'Seamlessly integrate with your existing tools' },
-    { title: 'Powerful Analytics', description: 'Gain insights with our advanced analytics' },
-    { title: 'Secure & Reliable', description: 'Your data is safe with our top-notch security' },
+    { title: 'Advanced Analytics', description: 'Gain insights with our powerful analytics dashboard' },
+    { title: 'Secure & Reliable', description: 'Your data is safe with our enterprise-grade security' },
   ];
 
   return (
